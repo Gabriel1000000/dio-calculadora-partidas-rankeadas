@@ -199,7 +199,8 @@ Aqui estão algumas melhorias que deixariam o projeto mais robusto e “cara de 
 
 ## 👤 Autor
 
-Desenvolvido por Gabriel Alves Varella da Costa
+Desenvolvido por Gabriel Alves Varella da Costa 
+
 Desafio: DIO - Calculadora de Partidas Rankeadas
 
 ---
